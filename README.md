@@ -4,7 +4,7 @@
 School of Computing and Information Systems
 
 1. [Introduction](#Introduction)
-2. [Requirements] (#Requirements)
+2. [Requirements](#Requirements)
 3. [Main Components](#Main-Components)
 4. [Major Results](#Major-Results)
 
