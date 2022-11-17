@@ -1,5 +1,5 @@
 
-# University of Melbourne COMP90086 Computer Vision project - Stereo Matching
+# University of Melbourne COMP90086 Computer Vision project - Stereo Disparity
 
 School of Computing and Information Systems
 
@@ -17,7 +17,7 @@ School of Computing and Information Systems
 
 # Introduction 
 
-The purpose of this project is to develop a complete and necessary stereo matching pipeline, with multiple matching techniques( inclusing baseline model), result discussion and error analysis.
+The purpose of this project is to develop a complete and necessary stereo disparity pipeline, with multiple matching techniques( inclusing baseline model), result discussion and error analysis.
 
 "Stereo matching is the problem of finding correspondences between two images that are taken simultaneously from two cameras that are mounted so that they are parallel and separated along their x-axis. The output of stereo matching is a disparity image that, for every pixel in the left image (x), indicates how many pixels to the left its correspondence (x’) is in the right image, giving the disparity (x-x’)." [Source here](https://github.com/Cassiel-H/Stereo-Matching/blob/main/Stereo%20Disparity%20project.pdf)
 
